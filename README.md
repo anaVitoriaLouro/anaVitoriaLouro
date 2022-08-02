@@ -4,7 +4,7 @@ I'm Ana, nice to me you! 😊
 
 My journey started in the front-end, but now my love is for Data Science and Python!
 
-Improving everyday is my main goal! :top:
+Improving is my main goal! :top:
 
 #### NOW
 
