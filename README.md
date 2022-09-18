@@ -14,7 +14,7 @@ Improving is my main goal! :top:
 
 #### BIO
 
-- :books: Currently learning Python
+- :books: Currently learning Python for Data Science and Machine Learning
 - :computer: Learned the basics in .html, .css, .js
 - :nerd_face: Fun fact: I am a nerd by heart! From D&D to Classical Music
 
