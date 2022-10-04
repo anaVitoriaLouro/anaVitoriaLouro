@@ -8,15 +8,16 @@ Improving is my main goal! :top:
 
 #### NOW
 
-- :seedling: Working on personal projects to improve my skills
-- :woman_technologist: Looking for oportunities to start a solid career
+- :mortar_board: Bachelor in Data Science from Univesp;
+- :seedling: Working on personal projects to improve my skills;
+- :woman_technologist: Looking for oportunities to start a solid career;
 
 
 #### BIO
 
-- :books: Currently learning Python for Data Science and Machine Learning
-- :computer: Learned the basics in .html, .css, .js
-- :nerd_face: Fun fact: I am a nerd by heart! From D&D to Classical Music
+- :books: Currently learning Python for Data Science and Machine Learning;
+- :computer: Learned the basics in .html, .css, .js;
+- :nerd_face: Fun fact: I am a nerd by heart! From D&D to Classical Music;
 
  <br>
 
