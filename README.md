@@ -8,7 +8,7 @@ Improving is my main goal! :top:
 
 #### NOW
 
-- :mortar_board: Bachelor in Data Science from Univesp;
+- :mortar_board: Graduating: Bachelor in Data Science at Univesp;
 - :seedling: Working on personal projects to improve my skills;
 - :woman_technologist: Looking for oportunities to start a solid career;
 
