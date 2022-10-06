@@ -39,6 +39,6 @@ Improving is my main goal! :top:
   ### You can also find me here!
  
 <div> 
-<a href="https://www.linkedin.com/in/ana-vit%C3%B3ria-louro-navili-987526221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/ana-vitoria-louro-navili/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
