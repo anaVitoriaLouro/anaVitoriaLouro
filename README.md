@@ -2,25 +2,45 @@
 
 <br>
 
-I'm a Data Scientist who is passionate about technology, data and how this two things together can achieve great things!
+Pt - BR: 
 
-Improving is my main goal! :top:
+<br>
 
-#### NOW
+Profissional ingressante na área de Dados. Venho desde 2021 me especializando através de cursos e projetos práticos, todos presentes no meu portifólio, e Graduação de Bacharel em Ciência de Dados pela Univesp.
 
-- :mortar_board: Graduating: Bachelor in Data Science at Univesp;
-- 📚 Currently learning Python for Data Science and Machine Learning;
-- :seedling: Working on personal projects to improve my skills;
-- :woman_office_worker: Looking for oportunities to start a solid career;
+<br>
 
+Durante meu percurso de aprendizado adquiri conhecimentos em:
+- Linguagem de Programação Python;
+- Análise Exploratória de Dados;
+- Visualização de Dados;
+- Machine Learning;
 
-#### BIO
+<br>
 
-- :computer: Learned the basics in .html, .css, .js;
-- :nerd_face: Fun fact: I am a nerd by heart! From D&D, Classical Music and now Data Science;
+Meu foco atual de aprendizado é aprofundar meus conhecimentos prévios de Python para Machine Learning e iniciar a aplicação também para Inteligência Artificial.
 
- <br>
- 
+----
+En - US:
+
+<br>
+
+Entry-level professional in the data area. I've been specializing since 2021 through practical courses and projects, all present in my portfolio, and Bachelor's Degree in Data Science from Univesp.
+
+<br>
+
+During my learning path I acquired knowledge in:
+- Python programming language;
+- Exploratory Data Analysis;
+- Data Visualization;
+- Machine Learning;
+
+<br>
+
+My current learning focus is to deepen my previous knowledge in Python for Machine Learning and start applying it to Artificial Intelligence.
+
+<br>
+
   ### You can also find me here! :globe_with_meridians:
  <br>
  
