@@ -18,7 +18,7 @@ Durante meu percurso de aprendizado adquiri conhecimentos em:
 
 <br>
 
-Meu foco atual de aprendizado é aprofundar meus conhecimentos prévios de Python para Machine Learning e iniciar a aplicação também para Inteligência Artificial.
+Meu foco atual de aprendizado é aprofundar meus conhecimentos prévios de Python para Machine Learning e iniciar meu aprendizado também em áreas como NLP e Redes Neurais.
 
 ----
 En - US:
@@ -37,7 +37,7 @@ During my learning path I acquired knowledge in:
 
 <br>
 
-My current learning focus is to deepen my previous knowledge in Python for Machine Learning and start applying it to Artificial Intelligence.
+My current learning focus is to deepen my previous knowledge in Python for Machine Learning and start my leaning path in NLP and Neural network.
 
 <br>
 
