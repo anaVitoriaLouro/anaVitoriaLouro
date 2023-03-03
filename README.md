@@ -39,10 +39,18 @@ During my learning path I acquired knowledge in:
 
 My current learning focus is to deepen my previous knowledge in Python for Machine Learning and start my leaning path in NLP and Neural network.
 
+----
+### 📊 Métricas/Metrics:
+
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaVitoriaLouro&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+----
   ### You can also find me here! :globe_with_meridians:
  <br>
+ 
+
  
 <div> 
 <a href="https://www.linkedin.com/in/ana-vitoria-louro-navili/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
