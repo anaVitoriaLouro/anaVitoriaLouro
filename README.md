@@ -44,7 +44,13 @@ My current learning focus is to deepen my previous knowledge in Python for Machi
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaVitoriaLouro&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anaVitoriaLouro&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaVitoriaLouro&layout=compact&theme=synthwave" />
+</a>
 
 ----
   ### You can also find me here! :globe_with_meridians:
