@@ -10,7 +10,7 @@ I'm a entry-level Data Scientist with a passion for data and IA. I love working 
 ## :woman_technologist: Skills:
 - Programming languages: Python, JavaScript, HTML/CSS
 - Databases: MySQL, MongoDB
-- Tools: Git, VS Code, Docker, AWS Cloud
+- Tools: Git, VS Code, Jupyter Notebook, Docker, AWS Cloud
 
 <br>
 
