@@ -3,7 +3,7 @@
 <br>
 
 ## 🤖 About Me :woman_technologist::
-I'm a entry-level Data Scientis with a passion for data and IA. I love working on projects that challenge me and push me to learn new things. 
+I'm a entry-level Data Scientist with a passion for data and IA. I love working on projects that challenge me and push me to learn new things. 
 
 <br>
 
