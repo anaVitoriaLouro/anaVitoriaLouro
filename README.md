@@ -1,61 +1,36 @@
-### Hi, I'm Ana! 👋:woman_technologist:
+# 👋 Hello there! Welcome to my Github profile!
 
 <br>
 
-Pt - BR: 
+## 🤖 About Me :woman_technologist::
+I'm a entry-level Data Scientis with a passion for data and IA. I love working on projects that challenge me and push me to learn new things. 
 
 <br>
 
-Profissional ingressante na área de Dados. Venho desde 2021 me especializando através de cursos e projetos práticos, todos presentes no meu portifólio, e Graduação de Bacharel em Ciência de Dados pela Univesp.
+## 👨‍💻 Skills:
+- Programming languages: Python, JavaScript, HTML/CSS
+- Databases: MySQL, MongoDB
+- Tools: Git, VS Code, Docker, AWS Cloud
 
 <br>
 
-Durante meu percurso de aprendizado adquiri conhecimentos em:
-- Linguagem de Programação Python;
-- Análise Exploratória de Dados;
-- Visualização de Dados;
-- Machine Learning;
+## 🔭 Projects:
+Check out some of my latest projects:
+- 💻 [youtube-API](https://github.com/anaVitoriaLouro/youtube-API): Checking some youtubers metrics using the Youtube API.
+- 🎥 [movies-correlation](https://github.com/anaVitoriaLouro/movies-correlation): Checking correlation between Gross Earnings in different types of information from movies.
+- 🎲 [jogo-da-velha](https://github.com/anaVitoriaLouro/jogo-da-velha): Tic-tac-toe game to play with another player or aganist the IA.
 
 <br>
 
-Meu foco atual de aprendizado é aprofundar meus conhecimentos prévios de Python para Machine Learning e iniciar meu aprendizado também em áreas como NLP e Redes Neurais.
-
-----
-En - US:
+### 📊 Metrics:
 
 <br>
 
-Entry-level professional in the data area. I've been specializing since 2021 through practical courses and projects, all present in my portfolio, and Bachelor's Degree in Data Science from Univesp.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaVitoriaLouro&show_icons=true&theme=material-palenight)
 
 <br>
 
-During my learning path I acquired knowledge in:
-- Python programming language;
-- Exploratory Data Analysis;
-- Data Visualization;
-- Machine Learning;
+## 📫 Contact:
+Feel free to reach out to me:
 
-<br>
-
-My current learning focus is to deepen my previous knowledge in Python for Machine Learning and start my leaning path in NLP and Neural network.
-
-----
-### 📊 Métricas/Metrics:
-
-<br>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anaVitoriaLouro&layout=compact&theme=synthwave)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaVitoriaLouro&show_icons=true&theme=synthwave)
-
-----
-  ### You can also find me here! :globe_with_meridians:
- <br>
- 
-
- 
-<div> 
-<a href="https://www.linkedin.com/in/ana-vitoria-louro-navili/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-vitoria-louro-navili/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uthenera/)
