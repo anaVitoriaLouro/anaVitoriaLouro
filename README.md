@@ -16,7 +16,7 @@ I'm a entry-level Data Scientist with a passion for data and IA. I love working 
 
 ## 🔭 Projects:
 Check out some of my latest projects:
-- 💻 [youtube-API](https://github.com/anaVitoriaLouro/youtube-API): Checking some youtubers metrics using the Youtube API.
+- 💻 [sales-forecast](https://github.com/anaVitoriaLouro/sales-forecast): Prediction the sales based on company investiments in: TV, Newspaper and Radio.
 - 🎥 [movies-correlation](https://github.com/anaVitoriaLouro/movies-correlation): Checking correlation between Gross Earnings in different types of information from movies.
 - 🎲 [jogo-da-velha](https://github.com/anaVitoriaLouro/jogo-da-velha): Tic-tac-toe game to play with another player or aganist the IA.
 
