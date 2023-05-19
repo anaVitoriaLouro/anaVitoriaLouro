@@ -25,19 +25,13 @@
 ***
  
  ### Main skills:
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-green?style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![AWS Cloud](https://img.shields.io/badge/-AWS%20Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,tensorflow" /> <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql" /> <br/>
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,nodejs,vscode"/>
+  </a>
+</p>
 <br>  
 
 <div align="center">
