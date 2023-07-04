@@ -59,7 +59,8 @@ I'm an **Undergrad Student🎓 at [UNIVESP](https://univesp.br/)** pursuing a Da
 ![Ana Vitória's Stats](https://github-readme-stats.vercel.app/api?username=anaVitoriaLouro&show_icons=true&count_private=true&theme=dracula)
 
 
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{anaVitoriaLouro}/count.svg" /></p> 
 <br>
 
