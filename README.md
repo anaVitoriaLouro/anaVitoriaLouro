@@ -23,11 +23,11 @@ I'm an **Undergrad Student🎓 at [UNIVESP](https://univesp.br/)** pursuing a Da
 
 <br/>
 
-### ⚡️ A Few Quick Facts
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A Few Quick Facts
 
 - 🔭 I’m currently working with Python, both for Data Science and to practice programming logic. 
 - 🌱 I’m looking to learn C+ and/or Java ☕
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on:
+- ⚡️ I enjoy working on:
   - 📊 Machine Learning & Data Science;
   - 🖼 Computer Vision;
 - 📙 Check out my full [Resume and Certifications](https://www.linkedin.com/in/ana-vitoria-louro-navili/)
@@ -78,5 +78,6 @@ I'm an **Undergrad Student🎓 at [UNIVESP](https://univesp.br/)** pursuing a Da
 
 <br>
 
+### Thanks for stopping by 😻
 <img  src="https://media.tenor.com/825JM-UpUScAAAAM/cat-high-five.">
 </div> 
