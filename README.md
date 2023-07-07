@@ -25,8 +25,9 @@ I'm an **Undergrad Student🎓 at [UNIVESP](https://univesp.br/)** pursuing a Da
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A Few Quick Facts
 
+- 📚 Now I'm focusing my studies to get my AWS Cloud Pratictioner Certification.
 - 🔭 I’m currently working with Python, both for Data Science and to practice programming logic. 
-- 🌱 I’m looking to learn C+ and/or Java ☕
+- 🌱 I’m looking to learn C+ and SQL ☕
 - ⚡️ I enjoy working on:
   - 📊 Machine Learning & Data Science;
   - 🖼 Computer Vision;
