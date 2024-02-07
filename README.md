@@ -25,9 +25,9 @@ I'm an **Undergrad Student🎓 at [UNIVESP](https://univesp.br/)** pursuing a Da
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A Few Quick Facts
 
-- 📚 Now I'm focusing my studies to get my AWS Cloud Pratictioner Certification.
-- 🔭 I’m currently working with Python, both for Data Science and to practice programming logic. 
-- 🌱 I’m looking to learn C+ and SQL ☕
+- 📚 Now I'm focusing my studies on my college degree and new portifolio projects.
+- ☕ I’m currently working with Python, both for Data Science and to practice programming logic. 
+- 🌱 I’m looking to learn more about SQL 
 - ⚡️ I enjoy working on:
   - 📊 Machine Learning & Data Science;
   - 🖼 Computer Vision;
@@ -57,7 +57,8 @@ I'm an **Undergrad Student🎓 at [UNIVESP](https://univesp.br/)** pursuing a Da
 ## 📊 Quick Stats
 <br>
 
-![Ana Vitória's Stats](https://github-readme-stats.vercel.app/api?username=anaVitoriaLouro&show_icons=true&count_private=true&theme=dracula)
+![Ana Vitória's Stats](https://github-readme-stats.vercel.app/api?username=anaVitoriaLouro&show_icons=true&count_private=true&hide=contribs&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaVitoriaLouro&layout=compact&theme=tokyonight)
 
 
 <br>
