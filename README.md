@@ -10,7 +10,7 @@
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/anaVitoriaLouro/)](https://github.com/anaVitoriaLouro) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-vitoria-louro-navili/)](https://www.linkedin.com/in/ana-vitoria-louro-navili/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:va014863@gmail.com)](mailto:va014863@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:va014863@gmail.com)](mailto:anavitorialouro.ml@gmail.com)
 [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/anavitorialouro/)](https://www.kaggle.com/anavitorialouro) 
 
 </div>
