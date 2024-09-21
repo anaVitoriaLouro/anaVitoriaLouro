@@ -44,7 +44,7 @@ I'm an **Undergrad Student🎓 at [UNIVESP](https://univesp.br/)** pursuing a Da
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js" /> <br/>
     <img src="https://skillicons.dev/icons?i=tensorflow,html,css" /> <br/>
-    <img src="https://skillicons.dev/icons?i=git,aws,docker,nodejs,vscode,jupyternotebook"/>
+    <img src="https://skillicons.dev/icons?i=aws,docker,nodejs,vscode,git"/>
   </a>
 
 </div>  
