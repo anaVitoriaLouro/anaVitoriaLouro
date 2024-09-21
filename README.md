@@ -19,7 +19,7 @@
 <br>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
-I'm an **Undergrad Student🎓 at [UNIVESP](https://univesp.br/)** pursuing a Data Science Degree. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech.
+I'm an **Undergrad Student🎓 at [UNIVESP](https://univesp.br/)** pursuing a Data Science Bachelor. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech.
 
 <br/>
 
@@ -27,10 +27,10 @@ I'm an **Undergrad Student🎓 at [UNIVESP](https://univesp.br/)** pursuing a Da
 
 - 📚 Now I'm focusing my studies on my college degree and new portifolio projects.
 - ☕ I’m currently working with Python, both for Data Science and to practice programming logic. 
-- 🌱 I’m looking to learn more about SQL 
+- 🌱 I’m looking to learn more about Cybersecurity, Machine Learning and AI; 
 - ⚡️ I enjoy working on:
   - 📊 Machine Learning & Data Science;
-  - 🖼 Computer Vision;
+  - 🖼 Generative AI;
 - 📙 Check out my full [Resume and Certifications](https://www.linkedin.com/in/ana-vitoria-louro-navili/)
 
 ---
@@ -42,9 +42,9 @@ I'm an **Undergrad Student🎓 at [UNIVESP](https://univesp.br/)** pursuing a Da
 <br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,tensorflow" /> <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql" /> <br/>
-    <img src="https://skillicons.dev/icons?i=git,aws,docker,nodejs,vscode"/>
+    <img src="https://skillicons.dev/icons?i=python,js" /> <br/>
+    <img src="https://skillicons.dev/icons?i=tensorflow,html,css" /> <br/>
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,nodejs,vscode,jupyternotebook"/>
   </a>
 
 </div>  
